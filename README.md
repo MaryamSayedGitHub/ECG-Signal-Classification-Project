@@ -2,6 +2,7 @@
 
 This project is a Streamlit-based web application for classifying Electrooculography (EOG) signals into different eye movement classes using machine learning. It supports two feature extraction methods: **DWT (Discrete Wavelet Transform)** and **TSFEL (Time Series Feature Extraction Library)**. Users upload horizontal and vertical signal files, and the app predicts the corresponding eye movement.
 
+Picture 396895304, Picture
 ---
 
 ## 🌟 Features
