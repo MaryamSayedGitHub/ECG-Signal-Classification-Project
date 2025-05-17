@@ -129,7 +129,14 @@ tsfel==0.1.4
   <pre><code>!streamlit run app.py &amp;&amp; npx localtunnel --port 8501</code></pre>
 
   <h2>📸 Displaying Results</h2>
-  <p>The app also displays sample prediction-related images from the <code>images/</code> folder.</p>
+  ![image](https://github.com/user-attachments/assets/1f7774c9-b8ea-44e2-aafa-4314ffba42f6)
+  ![image](https://github.com/user-attachments/assets/ea718d95-2426-4609-bbeb-c9fcb394532d)
+  ![image](https://github.com/user-attachments/assets/3ad77914-4a2f-4cfd-a16e-de6e6d34c842)
+  ![image](https://github.com/user-attachments/assets/91be3f24-6be9-4d15-bb95-c069c51ef20f)
+  ![image](https://github.com/user-attachments/assets/9db5af3e-7bca-4a89-9b39-68c0d6db7f53)
+  ![image](https://github.com/user-attachments/assets/88edc428-9049-4f47-994f-23d151a5b47f)
+  ![image](https://github.com/user-attachments/assets/ca168c18-8816-4b8f-8249-ef087732798b)
+
 
   <h2>👤 Author</h2>
   <p>Built with ❤️ for research and educational purposes.<br>
