@@ -128,7 +128,7 @@ tsfel==0.1.4
   <p>Or on Google Colab:</p>
   <pre><code>!streamlit run app.py &amp;&amp; npx localtunnel --port 8501</code></pre>
 
-  <h2>📸 Displaying Results</h2>
+ 
   ![image](https://github.com/user-attachments/assets/1f7774c9-b8ea-44e2-aafa-4314ffba42f6)
   ![image](https://github.com/user-attachments/assets/ea718d95-2426-4609-bbeb-c9fcb394532d)
   ![image](https://github.com/user-attachments/assets/3ad77914-4a2f-4cfd-a16e-de6e6d34c842)
